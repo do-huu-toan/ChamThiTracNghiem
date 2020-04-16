@@ -1,0 +1,17 @@
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\ChamThi.exe.config
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.csprojResolveAssemblyReference.cache
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.frmChamThi.resources
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.Properties.Resources.resources
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.csproj.GenerateResource.Cache
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\ChamThi.exe
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\ChamThi.pdb
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\mscorlib.dll
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\normidna.nlp
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\normnfc.nlp
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\normnfd.nlp
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\normnfkc.nlp
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\bin\Debug\normnfkd.nlp
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.exe
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.pdb
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.frmGiaoDienChinh.resources
+D:\nguyentu\Ho so NCKH may cham trac nghiem\ChamThi\ChamThi\obj\Debug\ChamThi.frmScanForm.resources
